@@ -33,3 +33,6 @@ String decrypted = cipher.decrypt("CGE");
 Caesar Shift:
 CaesarShift caesar = new CaesarShift(3);
 String shifted = caesar.encrypt("FAD");
+
+![image](https://github.com/user-attachments/assets/4a316761-1164-4a0f-afca-d4f337b9d208)
+
